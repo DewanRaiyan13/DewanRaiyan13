@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Dewan Raiyan! 👋
 
-<!--
-**DewanRaiyan13/DewanRaiyan13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about coding and building amazing projects.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I'm currently working on [project name]
+- 🌱 I'm learning [technologies/skills]
+- 💬 Ask me about [topics you're knowledgeable in]
+- 📫 How to reach me: [your email/social links]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- **Languages**: [e.g., Python, JavaScript, Java]
+- **Frameworks**: [e.g., React, Django, Spring]
+- **Tools**: [e.g., Git, Docker, AWS]
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DewanRaiyan13&show_icons=true&theme=dark)
+
+## 🌟 Featured Projects
+- [Project Name](link) - Brief description
+- [Project Name](link) - Brief description
+
+## 📬 Get in Touch
+- LinkedIn: [Your LinkedIn]
+- Twitter: [Your Twitter]
+- Email: [Your Email]
+
+---
+⭐ Feel free to star my repositories if you find them useful!
