@@ -17,7 +17,7 @@
 ## 🚀 About Me
 
 - 🎓 **BSc in Computer Science & Engineering** — BRAC University, Bangladesh
-- 🔬 **Undergraduate Researcher** at BRAC University (NLP & Computer Vision)
+- 🔬 **Undergraduate Researcher** at BRAC University
 - 💼 **Former Intern** at Lucid Tech — Full Stack Web Development
 - 🌐 Building full-stack web apps with **Next.js**, **Laravel**, and **PHP**
 - 🤖 Training models and experimenting with **TensorFlow**, **PyTorch**, and **Hugging Face**
